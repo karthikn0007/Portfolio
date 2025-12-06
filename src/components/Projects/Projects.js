@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Task Flow – Smart Productivity Task Tracker"
-              description="Developed a secure web app for managing personal tasks with user authentication and real-time UI updates."
+              description="Developed a secure web app for managing personal tasks with user authentication and real-time UI updates. Built a full-stack task manager using Spring Boot, Spring Security, and MySQL with secure user authentication and CRUD Operations"
               ghLink="https://github.com/karthikn0007/Task_Tracker"
               // demoLink="https://chatify-49.web.app/"
             />
@@ -38,8 +38,9 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Fitness Club"
-              description="Developed a management system for a fitness club to handle members, trainers, plans, and packages efficiently."
+              title="Fitness Club Management System"
+              description="Developed a management system for a fitness club to handle members, trainers, plans, and packages efficiently. Designed scheduling functionality to manage trainer and member workout sessions.
+"
               ghLink="https://github.com/karthikn0007/FitnessClub_Management_System"
               // demoLink="https://editor.soumya-jit.tech/"              
             />

@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Karthi Keyan </span>
             from <span className="purple"> Tenkasi, India.</span>
             <br />
-            I Completed My B.E at PSR Engineering College.
+            I have completed my Bachelor's degree in Computer Science Engineering at PSR Engineering College.
             <br />
             As a Back-end developer, I have hands-on experience in Java, MySQL, Spring Boot, JPA, and RESTful API development.
             <br />
