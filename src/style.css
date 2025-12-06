@@ -14,6 +14,8 @@ html {
   --imp-text-color: #c770f0;
 }
 
+
+
 .purple {
   color: var(--imp-text-color) !important;
 }
@@ -155,8 +157,11 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  height: 140px !important;
+  width: 140px !important;
+  object-fit: contain;
+
+
 }
 
 .navbar-nav .nav-link {
@@ -613,7 +618,17 @@ button:focus {
 .resume {
   padding-top: 50px;
   padding-bottom: 50px;
-  justify-content: center;
+  
+}
+
+.pdf-doc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;   /* centers pages horizontally */
+}
+
+.pdf-doc canvas {
+  margin-bottom: 30px;   /* space between page 1 & 2 (optional) */
 }
 
 .resume-left {
