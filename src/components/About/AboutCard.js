@@ -11,10 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Karthi Keyan </span>
             from <span className="purple"> Tenkasi, India.</span>
             <br />
-            I am currently pursuing a B.E at PSR Engineering College.
+            I Completed My B.E at PSR Engineering College.
             <br />
-            As a front-end developer, I have experience in HTML, CSS, React.js,
-            and JavaScript.
+            As a Back-end developer, I have hands-on experience in Java, MySQL, Spring Boot, JPA, and RESTful API development.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,10 +23,10 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Listening Music
+              <ImPointRight /> Traveling
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Learning new technologies
             </li>
           </ul>
 

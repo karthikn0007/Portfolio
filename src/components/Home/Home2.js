@@ -19,27 +19,26 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I have strong passion for programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I have a strong passion for programming and problem-solving, and I continuously work on improving my skills by building real-world applications.
               <br />
-              <br />I am fluent in classics like
+              <br />Currently, my primary focus is on Backend Development using Java, with hands-on knowledge of
               <i>
-                <b className="purple"> C++, Javascript and Reactjs. </b>
+                <b className="purple"> Core Java, MySQL, JDBC, Spring, Spring Boot, JPA, and Hibernate. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are building &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple"> Backend systems and REST APIs</b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Java Technologies and Frameworks
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I am actively planning to learn and work with
+               <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -48,7 +47,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Angular JS </b>
               </i>
             </p>
           </Col>
@@ -98,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/_.karthiiii._07._"
+                  href="https://www.instagram.com/_.karthi._07_"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
